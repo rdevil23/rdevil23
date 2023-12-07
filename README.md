@@ -1,28 +1,24 @@
-# Привет, меня зовут Дмитрий 👋
+### About me:
+Dmitry, Frontend developer, 25 y.o.
+
+Higher education. Specialty: "Informatics and computer technology". Institute: [OTI MEPHI](https://oti.mephi.ru)
+
+Additional education. Course "Web developer" from [Yandex.Practicum](https://practicum.yandex.ru)
 
 ---
 
-### Обо мне:
-Frontend developer, 25 y.o.
-
-Высшее образование по специальности "Информатика и вычислительная техника". Институт: [ОТИ НИЯУ МИФИ](https://oti.mephi.ru/)
-
-Дополнительное образование: курс "Веб-разработчик" в [Яндекс.Практикум](https://practicum.yandex.ru/profile/web/)
-
----
-
-Связаться со мной:
+Contacts:
 [![Telegram Badge](https://img.shields.io/badge/-telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/rdevil23) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:dmitrypodolyan23@gmail.com)
 
 ---
 
-Всего писал код:
+Total time writing code:
 [![wakatime](https://wakatime.com/badge/user/eec29832-12df-4c1f-b14d-f9c424fb2923.svg)](https://wakatime.com/@eec29832-12df-4c1f-b14d-f9c424fb2923)
 
 ---
 
-### Технологии:
+### Technology stack:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="html5" alt="html5" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="css" alt="css" width="40" height="40"/>&nbsp;
@@ -39,7 +35,7 @@ Frontend developer, 25 y.o.
 
 ---
 
-### Инструменты:
+### Tools:
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
@@ -51,7 +47,7 @@ Frontend developer, 25 y.o.
 
 ---
 
-### Github статистика:
+### Github statistics:
 <table>
   <tr>
     <td>
@@ -67,17 +63,3 @@ Frontend developer, 25 y.o.
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=rdevil23)
 
-<!--
-**rdevil23/rdevil23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
