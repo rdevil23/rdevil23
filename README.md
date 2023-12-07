@@ -8,7 +8,7 @@ Additional education. Course "Web developer" from [Yandex.Practicum](https://pra
 ---
 
 Contacts:
-[![Telegram Badge](https://img.shields.io/badge/-telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/rdevil23) 
+[![Telegram Badge](https://img.shields.io/badge/-telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/OnePDA) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:dmitrypodolyan23@gmail.com)
 
 ---
