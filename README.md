@@ -1,5 +1,6 @@
 ### About me:
-Dmitry, Frontend developer, 25 y.o.
+Dmitry, 
+Frontend Developer.
 
 Higher education. Specialty: "Informatics and computer technology". Institute: [OTI MEPHI](https://oti.mephi.ru)
 
@@ -15,6 +16,7 @@ Contacts:
 
 Total time writing code:
 [![wakatime](https://wakatime.com/badge/user/eec29832-12df-4c1f-b14d-f9c424fb2923.svg)](https://wakatime.com/@eec29832-12df-4c1f-b14d-f9c424fb2923)
+in frontend development since Nov 9 2022.
 
 ---
 
@@ -23,7 +25,7 @@ Total time writing code:
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="html5" alt="html5" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="css" alt="css" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="sass/scss" alt="sass/scss" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="tailwindcss" alt="tailwindcss" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="tailwindcss" alt="tailwindcss" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="javascript" alt="javascript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="typescript" alt="typescript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="reactjs" alt="reactjs" width="40" height="40"/>&nbsp;
