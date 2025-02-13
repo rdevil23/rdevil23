@@ -2,9 +2,7 @@
 Dmitry, 
 Frontend Developer.
 
-Higher education. Specialty: "Informatics and computer technology". Institute: [OTI MEPHI](https://oti.mephi.ru)
-
-Additional education. Course "Web developer" from [Yandex.Practicum](https://practicum.yandex.ru)
+Higher education. Specialty: "Informatics and computer technology".
 
 ---
 
@@ -14,7 +12,7 @@ Contacts:
 
 ---
 
-Total time writing code:
+Total time writing code(pet-projects):
 [![wakatime](https://wakatime.com/badge/user/eec29832-12df-4c1f-b14d-f9c424fb2923.svg)](https://wakatime.com/@eec29832-12df-4c1f-b14d-f9c424fb2923)
 in frontend development since Nov 9 2022.
 
